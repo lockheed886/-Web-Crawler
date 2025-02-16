@@ -1,0 +1,343 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 11 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F2 9 0 R
+/F2-0 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 443
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 100 750 Tm (Category: Uncategorized) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 100 100 Tm
+(Category\072 Uncategorized) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 100 100 Tm
+(Category\072 Uncategorized) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 13 0 R
+/F1-1 14 0 R
+/F2 15 0 R
+/F2-0 16 0 R
+/F2-1 17 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Contents 18 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Length 2220
+>>
+stream
+q
+q
+2 J
+0.57 w
+BT /F1 12.00 Tf ET
+BT 91.38 795.77 Td (An Adaptive and Heterodyne Filtering Procedure for the Imaging of Moving Objects) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 739.67 Td (Authors:) Tj ET
+BT /F1 10.00 Tf ET
+BT 31.19 711.33 Td (F. Schuling, H. Mastebroek, W. Zaagman) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 668.81 Td (Abstract:) Tj ET
+BT /F1 10.00 Tf ET
+0.975 Tw
+BT 31.19 640.46 Td (Recent experimental work on the stimulus velocity dependent time resolving power of the neural units, situated in the) Tj ET
+0 Tw
+BT 31.19 612.11 Td (highest order) Tj ET
+BT 31.19 583.77 Td (optic ganglion of the blowfly, revealed the at first sight amazing phenomenon that at this high level of the fly) Tj ET
+BT 31.19 555.42 Td (visual system, the time constants of these units which are involved in the processing of neural activity evoked by moving) Tj ET
+0.272 Tw
+BT 31.19 527.08 Td (objects, are -roughly spoken\(cid:173\) inverse proportional to the velocity of those objects over an extremely wide range.) Tj ET
+0 Tw
+BT 31.19 498.73 Td (In this paper) Tj ET
+2.847 Tw
+BT 31.19 470.38 Td (we will discuss the implementation of a two dimensional heterodyne adaptive filter construction into a computer) Tj ET
+0 Tw
+BT 31.19 442.04 Td (simulation model. The features) Tj ET
+0.513 Tw
+BT 31.19 413.69 Td (of this simulation model include the ability to account for the experimentally observed stimulus-tuned adaptive temporal) Tj ET
+0 Tw
+BT 31.19 385.34 Td (behaviour of time constants) Tj ET
+0.056 Tw
+BT 31.19 357.00 Td (in the fly visual system. The simulation results obtained, clearly show that the application of such an adaptive processing) Tj ET
+0 Tw
+BT 31.19 328.65 Td (procedure) Tj ET
+0.398 Tw
+BT 31.19 300.30 Td (delivers an improved imaging technique of moving patterns in the high velocity range. A FEW REMARKS ON THE FLY) Tj ET
+0 Tw
+BT 31.19 271.96 Td (VISUAL) Tj ET
+BT 31.19 243.61 Td (SYSTEM) Tj ET
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 100 100 Tm
+(Category\072 Uncategorized) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 100 100 Tm
+(Category\072 Uncategorized) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000427 00000 n 
+0000000921 00000 n 
+0000001028 00000 n 
+0000001135 00000 n 
+0000001242 00000 n 
+0000001354 00000 n 
+0000001467 00000 n 
+0000001727 00000 n 
+0000001825 00000 n 
+0000001933 00000 n 
+0000002041 00000 n 
+0000002144 00000 n 
+0000002257 00000 n 
+0000002370 00000 n 
+trailer
+<<
+/Size 19
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+4643
+%%EOF

@@ -1,0 +1,303 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 9 0 R 15 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 282
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 100 750 Tm (Category: Uncategorized) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 100 100 Tm
+(Category\072 Uncategorized) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 10 0 R
+/F1-0 11 0 R
+/F2 12 0 R
+/F2-0 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Contents 14 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/Length 2623
+>>
+stream
+q
+2 J
+0.57 w
+BT /F1 12.00 Tf ET
+BT -8.97 795.77 Td (A Computer Simulation of Olfactory Cortex with Functional Implications for Storage and Retrieval of Olfactory Information) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 739.67 Td (Authors:) Tj ET
+BT /F1 10.00 Tf ET
+BT 31.19 711.33 Td (James Bower, Matthew Wilson) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 668.81 Td (Abstract:) Tj ET
+BT /F1 10.00 Tf ET
+0.624 Tw
+BT 31.19 640.46 Td (Based on anatomical and physiological data, we have developed a computer simulation of piri\(cid:173\) form \(olfactory\)) Tj ET
+0 Tw
+BT 31.19 612.11 Td (cortex which is capable) Tj ET
+1.760 Tw
+BT 31.19 583.77 Td (of reproducing spatial and temporal patterns of actual cortical activity under a variety of conditions. Using a simple) Tj ET
+0 Tw
+BT 31.19 555.42 Td (Hebb-type learning) Tj ET
+4.204 Tw
+BT 31.19 527.08 Td (rule in conjunc\(cid:173\) tion with the cortical dynamics which emerge from the anatomical and physiological) Tj ET
+0 Tw
+BT 31.19 498.73 Td (organiza\(cid:173\) tion of the model,) Tj ET
+1.327 Tw
+BT 31.19 470.38 Td (the simulations are capable of establishing cortical representations for differ\(cid:173\) ent input patterns. The basis of) Tj ET
+0 Tw
+BT 31.19 442.04 Td (these representations lies in) Tj ET
+0.141 Tw
+BT 31.19 413.69 Td (the interaction of sparsely distribut\(cid:173\) ed, highly divergent/convergent interconnections between modeled neurons.) Tj ET
+0 Tw
+BT 31.19 385.34 Td (We have shown that different representations can be) Tj ET
+1.381 Tw
+BT 31.19 357.00 Td (stored with minimal interference. and that following learning these representations are resistant to input degradation,) Tj ET
+0 Tw
+BT 31.19 328.65 Td (allowing reconstruction of a representa\(cid:173\)) Tj ET
+0.484 Tw
+BT 31.19 300.30 Td (tion following only a partial presentation of an original training stimulus. Further, we have demonstrated that the degree) Tj ET
+0 Tw
+BT 31.19 271.96 Td (of overlap) Tj ET
+0.256 Tw
+BT 31.19 243.61 Td (of cortical representations for different stimuli can also be modulated. For instance similar input patterns can be induced) Tj ET
+0 Tw
+BT 31.19 215.26 Td (to generate) Tj ET
+3.700 Tw
+BT 31.19 186.92 Td (distinct cortical representations \(discrimination\). while dissimilar inputs can be induced to generate overlapping) Tj ET
+0 Tw
+BT 31.19 158.57 Td (representations \(accommodation\). Both features are presumably important) Tj ET
+BT 31.19 130.23 Td (in classifying olfacto\(cid:173\) ry stimuli.) Tj ET
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 100 100 Tm
+(Category\072 Uncategorized) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 17 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 110
+>>
+stream
+GapQh0E=F,0U\H3T\pNYT^QKk?tc>IP,;W#U1^23ihPEM_?CW4KISi90EC-p>QkT"`0/XBr1Ze6L![JC#Wo@B2+:Fe,YK:K$`$XN$NN?^(\[~>
+endstream
+endobj
+17 0 obj
+<<
+/F1 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000126 00000 n 
+0000000175 00000 n 
+0000000408 00000 n 
+0000000741 00000 n 
+0000000848 00000 n 
+0000000955 00000 n 
+0000001067 00000 n 
+0000001300 00000 n 
+0000001398 00000 n 
+0000001506 00000 n 
+0000001609 00000 n 
+0000001722 00000 n 
+0000004398 00000 n 
+0000004590 00000 n 
+0000004792 00000 n 
+0000004825 00000 n 
+trailer
+<<
+/Size 19
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+4933
+%%EOF

@@ -1,0 +1,425 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 11 0 R 19 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F2 9 0 R
+/F2-0 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 443
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 100 750 Tm (Category: Uncategorized) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 100 100 Tm
+(Category\072 Uncategorized) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 100 100 Tm
+(Category\072 Uncategorized) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 13 0 R
+/F1-1 14 0 R
+/F2 15 0 R
+/F2-0 16 0 R
+/F2-1 17 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Contents 18 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Length 1912
+>>
+stream
+q
+q
+2 J
+0.57 w
+BT /F1 12.00 Tf ET
+BT 68.72 795.77 Td (Analysis and Comparison of Different Learning Algorithms for Pattern Association Problems) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 739.67 Td (Authors:) Tj ET
+BT /F1 10.00 Tf ET
+BT 31.19 711.33 Td (J. Bernasconi) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 668.81 Td (Abstract:) Tj ET
+BT /F1 10.00 Tf ET
+1.662 Tw
+BT 31.19 640.46 Td (We investigate the behavior of different learning algorithms for networks of neuron-like units. As test cases we use) Tj ET
+0 Tw
+BT 31.19 612.11 Td (simple pat\(cid:173\)) Tj ET
+2.475 Tw
+BT 31.19 583.77 Td (tern association problems, such as the XOR-problem and symmetry de\(cid:173\) tection problems. The algorithms) Tj ET
+0 Tw
+BT 31.19 555.42 Td (considered are either versions of the) Tj ET
+3.292 Tw
+BT 31.19 527.08 Td (Boltzmann machine learning rule or based on the backpropagation of errors. We also propose and analyze a) Tj ET
+0 Tw
+BT 31.19 498.73 Td (generalized delta rule) Tj ET
+BT 31.19 470.38 Td (for linear threshold units. We find that the performance of a given learning algorithm depends strongly on the type of) Tj ET
+1.351 Tw
+BT 31.19 442.04 Td (units used. In particular, we observe that networks with ±1 units quite generally exhibit a significantly better learning) Tj ET
+0 Tw
+BT 31.19 413.69 Td (behavior than) Tj ET
+3.363 Tw
+BT 31.19 385.34 Td (the correspon\(cid:173\) ding 0,1 versions. We also demonstrate that an adaption of the weight-structure to the) Tj ET
+0 Tw
+BT 31.19 357.00 Td (symmetries of the problem) Tj ET
+BT 31.19 328.65 Td (can lead to a drastic increase in learning speed.) Tj ET
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 100 100 Tm
+(Category\072 Uncategorized) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 100 100 Tm
+(Category\072 Uncategorized) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 21 0 R
+/F1-0 22 0 R
+/F2 23 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 258
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 100 100 Tm (Category: Uncategorized) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 100 100 Tm
+(Category\072 Uncategorized) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 24
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000127 00000 n 
+0000000176 00000 n 
+0000000434 00000 n 
+0000000928 00000 n 
+0000001035 00000 n 
+0000001142 00000 n 
+0000001249 00000 n 
+0000001361 00000 n 
+0000001474 00000 n 
+0000001734 00000 n 
+0000001832 00000 n 
+0000001940 00000 n 
+0000002048 00000 n 
+0000002151 00000 n 
+0000002264 00000 n 
+0000002377 00000 n 
+0000004342 00000 n 
+0000004580 00000 n 
+0000004890 00000 n 
+0000004998 00000 n 
+0000005106 00000 n 
+trailer
+<<
+/Size 24
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+5219
+%%EOF
